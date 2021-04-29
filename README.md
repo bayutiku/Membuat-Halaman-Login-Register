@@ -1,4 +1,4 @@
-# Flutter Login UI
+# Login/Register Page
 
 [YouTube Speed Code](https://www.youtube.com/watch?v=6kaEbTfb444)
 
